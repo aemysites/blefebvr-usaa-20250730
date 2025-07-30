@@ -1,0 +1,71 @@
+{
+  "originUrl": "https://www.usaa.com",
+  "urls": [
+    {
+      "url": "https://www.usaa.com/about",
+      "source": "MANUAL",
+      "targetPath": "/about",
+      "id": "3d4becba9907cfd9225e29939d4483788baf78f9"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/auto-insurance",
+      "id": "86c78d8c52e03e11c12c5f740f975da983f56bac"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/insurance-home-renters",
+      "id": "270d45330ce1876f35d3dd26c7646f1bf6159384"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/insurance-life-main",
+      "id": "76c51e68f94cf5a781f6795eee20e4010a39d2c8"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance-health-medicare",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/insurance-health-medicare",
+      "id": "a8f2038e727dda8c1ab3bd2c881cc9f32994932b"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet",
+      "source": "MANUAL",
+      "targetPath": "/insurance/additional/pet",
+      "id": "cd33cbfb0d625ac7c2b2b5674a57813b3eb6dc7b"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/cell-phone",
+      "source": "MANUAL",
+      "targetPath": "/insurance/property/cell-phone",
+      "id": "a7ec1d983df2f9e1276f46785112a7d097f0fef1"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp",
+      "source": "MANUAL",
+      "targetPath": "/insurance/property/personal/vpp",
+      "id": "9293548059cee6e24aee59ecc1bf003c672f6285"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business",
+      "source": "MANUAL",
+      "targetPath": "/insurance/small-business",
+      "id": "d2367f25b6d1071c1b44cd6a1e938315241647f1"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle",
+      "source": "MANUAL",
+      "targetPath": "/insurance/vehicles/motorcycle",
+      "id": "78ca26f50cf545eb5f80db8a575930080db16387"
+    }
+  ],
+  "crawlOptions": {
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  }
+}

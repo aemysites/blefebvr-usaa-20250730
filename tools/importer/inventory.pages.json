@@ -1,0 +1,86 @@
+{
+  "templates": [
+    {
+      "name": "'Dashboard Interface'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main",
+          "uuid": "76c51e68f94cf5a781f6795eee20e4010a39d2c8"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare",
+          "uuid": "a8f2038e727dda8c1ab3bd2c881cc9f32994932b"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters",
+          "uuid": "270d45330ce1876f35d3dd26c7646f1bf6159384"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance",
+          "uuid": "86c78d8c52e03e11c12c5f740f975da983f56bac"
+        }
+      ]
+    },
+    {
+      "name": "'Profile Dashboard'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle",
+          "uuid": "78ca26f50cf545eb5f80db8a575930080db16387"
+        }
+      ]
+    },
+    {
+      "name": "'Business Dashboard'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business",
+          "uuid": "d2367f25b6d1071c1b44cd6a1e938315241647f1"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp",
+          "uuid": "9293548059cee6e24aee59ecc1bf003c672f6285"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet",
+          "uuid": "cd33cbfb0d625ac7c2b2b5674a57813b3eb6dc7b"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Page",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone",
+          "uuid": "a7ec1d983df2f9e1276f46785112a7d097f0fef1"
+        }
+      ]
+    },
+    {
+      "name": "'Product Listing Page'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.usaa.com/about",
+          "uuid": "3d4becba9907cfd9225e29939d4483788baf78f9"
+        }
+      ]
+    }
+  ]
+}

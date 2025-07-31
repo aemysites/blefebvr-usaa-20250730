@@ -1,0 +1,83 @@
+{
+  "originUrl": "https://www.usaa.com",
+  "urls": [
+    {
+      "url": "https://www.usaa.com/about?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/about",
+      "id": "3065e839226a93251ffc79b17bb9742223467bec"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/auto-insurance",
+      "id": "113ef79b274ea970b02d08f0d4c5c1dd7de09201"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/insurance-home-renters",
+      "id": "72effeed78db07360fe9179d7826735bb9f8554c"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/insurance-home-renters",
+      "id": "0f1480746302cad7196eb20a0756bb210fb9b983"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/insurance-home-renters",
+      "id": "3f717028efd2a4294937c3d49cb81ec3906e70c9"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/insurance-life-main",
+      "id": "c45f07e785dfb0959074da5a5f99f7404e07c091"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/inet/wc/insurance-health-medicare",
+      "id": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/insurance/additional/pet",
+      "id": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/insurance/property/cell-phone",
+      "id": "55885b0da11626265483af372ae2b37e00e3ca45"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/insurance/property/personal/vpp",
+      "id": "4e9682536bee5f5b5ff90734878dddd720508a53"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/insurance/small-business",
+      "id": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "source": "MANUAL",
+      "targetPath": "/insurance/vehicles/motorcycle",
+      "id": "7315ab951702223c7cfe8a75c3efd3eb27497bb0"
+    }
+  ],
+  "crawlOptions": {
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  }
+}

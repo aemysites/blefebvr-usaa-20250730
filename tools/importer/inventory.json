@@ -1,0 +1,2854 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.usaa.com/about?akredirect=true",
+          "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+          "uuid": "3065e839-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "height": 98,
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-12-2e60488429c690e63c5e787493b1ba302cb7a594",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-31-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-32-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-17-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.usaa.com/about?akredirect=true",
+          "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+          "uuid": "3065e839-11-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-31-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-25-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-14-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-31-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-24-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-25-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-19-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Hero",
+      "cluster": 1,
+      "source": "Hero",
+      "target": "Hero (hero1)",
+      "key": "hero1",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-30-9a163c849d59eb6daaac04894e23b2c7a533560b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-30-9a163c849d59eb6daaac04894e23b2c7a533560b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-30-9a163c849d59eb6daaac04894e23b2c7a533560b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-02-1bb15753958eb5147458ac6a01060bdc12f9b937",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-07-0f2fd9e7091d927641621c31f5580c1a5a0e6537",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[5]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-02-1bb15753958eb5147458ac6a01060bdc12f9b937",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-02-1bb15753958eb5147458ac6a01060bdc12f9b937",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-02-a80bf717f72afb8e2653776e0e5adae95a2a2b94",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 3,
+      "source": "Hero",
+      "target": "Hero (hero3)",
+      "key": "hero3",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-19-f9671fda77b74af3d924248d3a1a06fcedfa8d82",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-19-f9671fda77b74af3d924248d3a1a06fcedfa8d82",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-19-f9671fda77b74af3d924248d3a1a06fcedfa8d82",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-02-904daa6a7c0f54ea2d468231bb73b69bb9b47634",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-02-904daa6a7c0f54ea2d468231bb73b69bb9b47634",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-02-904daa6a7c0f54ea2d468231bb73b69bb9b47634",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-08-98bacc84bd2dc260441b70161018e34710a6aa06",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "source": "Hero",
+      "target": "Hero (hero6)",
+      "key": "hero6",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/about?akredirect=true",
+          "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+          "uuid": "3065e839-01-a80bf717f72afb8e2653776e0e5adae95a2a2b94",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-01-a80bf717f72afb8e2653776e0e5adae95a2a2b94",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-01-a80bf717f72afb8e2653776e0e5adae95a2a2b94",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-01-a80bf717f72afb8e2653776e0e5adae95a2a2b94",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 7,
+      "source": "Accordion",
+      "target": "Accordion (accordion7)",
+      "key": "accordion7",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-26-f44a2857d58f76f21297c30ac09db30d9033b7fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-27-4d39d15b343e238349a34d03822d9583c2e39811",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[3]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-26-f44a2857d58f76f21297c30ac09db30d9033b7fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-27-4d39d15b343e238349a34d03822d9583c2e39811",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[3]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-26-f44a2857d58f76f21297c30ac09db30d9033b7fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-27-4d39d15b343e238349a34d03822d9583c2e39811",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-23-dce69f3ad8d67403401a81b48ac42a9adc573cf9",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[13]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-13-9c2e6ef6c49ad135be8405b950ee7193dd1a3383",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-22-f44c374aa183c21c7d830d62b11d77c1952ddf2f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[9]/div[1]/div[1]/div[2]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/about?akredirect=true",
+          "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+          "uuid": "3065e839-03-0462bbaf54b6cd18b89ad05946a13dcae3d189ab",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[3]"
+        },
+        {
+          "url": "https://www.usaa.com/about?akredirect=true",
+          "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+          "uuid": "3065e839-07-0f2fd9e7091d927641621c31f5580c1a5a0e6537",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[5]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-08-a3aaf3388145883f11fcc86d7eb08f9428256f33",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[6]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-16-d0ab05d719a1dee35e2aa81504bea0d8c69a8d66",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[11]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-06-6e83f96b9d420bbe1e2351e54eff4f252b2cd6c2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-07-0f2fd9e7091d927641621c31f5580c1a5a0e6537",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[5]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-10-f9a71e1a4cbbde7b52328e144924c07e3cee89a4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[7]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-05-6e83f96b9d420bbe1e2351e54eff4f252b2cd6c2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-06-0f2fd9e7091d927641621c31f5580c1a5a0e6537",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[5]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-07-a3aaf3388145883f11fcc86d7eb08f9428256f33",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[6]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-08-f9a71e1a4cbbde7b52328e144924c07e3cee89a4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[7]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-09-782b03b6fd9d3a9aa931e7edb9cdddc21abfb86a",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-10-c2b99a910be947ceddd9163cc39da3be9dbbcac3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[9]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-06-0462bbaf54b6cd18b89ad05946a13dcae3d189ab",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[3]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-10-6e83f96b9d420bbe1e2351e54eff4f252b2cd6c2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 10,
+      "source": "Hero",
+      "target": "Hero (hero10)",
+      "key": "hero10",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-01-c8b0dbd619b148b384c7cff0021e69faf1647b3b",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/section[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-15-bc44dac6b60c1ba26739edd6298f30e22e9d904b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-15-bc44dac6b60c1ba26739edd6298f30e22e9d904b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-15-bc44dac6b60c1ba26739edd6298f30e22e9d904b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-21-1884d81c4027bb69d58d4817bc16da7f6de73a01",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-06-f798d14617969cdf2705bf5760f97de5a0b027a6",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-21-1884d81c4027bb69d58d4817bc16da7f6de73a01",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-21-1884d81c4027bb69d58d4817bc16da7f6de73a01",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[1]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-28-17806b10631f0f9ed51c42a80207c70fffd1c09f",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[5]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-13-43eeeaddfc30e8b6a7a73c55a68ed060a850222d",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-11-ba7fc60004850110adcfef6a3fb7a4c921f6ca6e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-23-00c10a731d8554d28586468c81d53bd16b9eaa77",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[9]",
+          "section": "section-8"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-23-b1b62dee270fbf40811775b451e1d61e8524ddea",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[2]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-23-b1b62dee270fbf40811775b451e1d61e8524ddea",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[2]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-23-b1b62dee270fbf40811775b451e1d61e8524ddea",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[2]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "source": "Columns",
+      "target": "Columns (columns17)",
+      "key": "columns17",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-09-e27c1d39d230f4b4f543720debc0fee390e58838",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[6]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-13-0599703fcf079fcd35a6e3974dc81385fb738857",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[5]/div[1]/div[1]/div[2]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-07-13c62afd67e1ddc602e852e25e0d23d01a13440e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[5]/section[1]/div[2]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 19,
+      "source": "Cards",
+      "target": "Cards (cards19)",
+      "key": "cards19",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-29-ac02e9d2275c86968af0b33317d3dc3c5b7d303e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[2]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-27-1555c8935dbd33e55b77ef23f64e9ee309d733b0",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[4]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-29-ac02e9d2275c86968af0b33317d3dc3c5b7d303e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[2]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-29-ac02e9d2275c86968af0b33317d3dc3c5b7d303e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[2]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 20,
+      "source": "Cards",
+      "target": "Cards (cards20)",
+      "key": "cards20",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-08-a4d8c61ea0216405aa1d7abd0511a6007eceab32",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[6]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-16-f23da2aa1a2277dba626f621532b7752b9961b73",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[11]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-09-b2b0a956ecde0add66c23623557ee61d372aa79e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[7]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 22,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages22)",
+      "key": "cardsNoImages22",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-13-45d84f99668067391a225f3e3dfd9be7c40352b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[9]/section[1]/ol[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-18-4641ee7890b1944340d848c68db8e3337a1a742c",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[5]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 24,
+      "source": "Columns",
+      "target": "Columns (columns24)",
+      "key": "columns24",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-07-ed18937af4bf4767d4fd04ae588801169729038e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 25,
+      "source": "Header",
+      "target": "Header (header25)",
+      "key": "header25",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/about?akredirect=true",
+          "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+          "uuid": "3065e839-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
+      "source": "Columns",
+      "target": "Columns (columns26)",
+      "key": "columns26",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-31-3596c836a081cbb4c518eff79afebf993409c436",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[7]/section[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 27,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-02-5db10a8cccd693f2455cdbfbd05cbe19c965fef1",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 28,
+      "source": "Accordion",
+      "target": "Accordion (accordion28)",
+      "key": "accordion28",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-19-48c6f0cc9ef9487ac4046c57875eae297df39d77",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-20-3ac78de7148482618eeb8536a2330342aa6048b9",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-21-ee81ba12e23e283820c962738c8c0a2fc55445a5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[3]/div[1]/div[1]/div[4]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-17-48c6f0cc9ef9487ac4046c57875eae297df39d77",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-18-3ac78de7148482618eeb8536a2330342aa6048b9",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-19-ee81ba12e23e283820c962738c8c0a2fc55445a5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[3]/div[1]/div[1]/div[4]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-17-74c1f3d4c4c919b822b453c6a483c9dfedc7fb66",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-18-f8cf9af8e32a0e959a8dba1fffcee5a1fd50aa93",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-19-dcf81cfe1898d4fb3845359da9255fe7e54ddc34",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-20-399425aa76981980c20ef66ad0fa994a424cde6c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[4]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "source": "Columns",
+      "target": "Columns (columns29)",
+      "key": "columns29",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-11-f993e025696e0cb5d6784a69ce74356a7a41768b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-11-f993e025696e0cb5d6784a69ce74356a7a41768b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-11-f993e025696e0cb5d6784a69ce74356a7a41768b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[2]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 30,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-05-45c4309c21843da4509c1b2cd68818e20bedc8fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[3]/section[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 31,
+      "source": "Columns",
+      "target": "Columns (columns31)",
+      "key": "columns31",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-10-567de28c72e479943a91a9293b454543ec5a94f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[7]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-04-b23aa7a17ca7aea7d8d140b02d714935fda518f1",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 32,
+      "source": "Columns",
+      "target": "Columns (columns32)",
+      "key": "columns32",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-09-6a36b55221e0fc8617ec6cdab5e4f38b8503005f",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[3]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-09-6a36b55221e0fc8617ec6cdab5e4f38b8503005f",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[3]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-09-6a36b55221e0fc8617ec6cdab5e4f38b8503005f",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[3]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 33,
+      "source": "Hero",
+      "target": "Hero (hero33)",
+      "key": "hero33",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-01-adb7cd6a589a494f1a88b8b05699a4b87b97b6d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-01-adb7cd6a589a494f1a88b8b05699a4b87b97b6d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-01-adb7cd6a589a494f1a88b8b05699a4b87b97b6d3",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 34,
+      "source": "Columns",
+      "target": "Columns (columns34)",
+      "key": "columns34",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-05-4edea10107f9b7bee3b870a7d1d69637f12bb0a5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 35,
+      "source": "Hero",
+      "target": "Hero (hero35)",
+      "key": "hero35",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-07-13ac3c2b9e1096ade23ecc02617de0232b03a0e2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 36,
+      "source": "Accordion",
+      "target": "Accordion (accordion36)",
+      "key": "accordion36",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-14-22363d063749013daa43d61d39198afc814573ca",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[14]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 37,
+      "source": "Columns",
+      "target": "Columns (columns37)",
+      "key": "columns37",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-09-ce5a2731b0cd9350a7607b50a40a3eefc3d6b194",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[6]/section[1]/ul[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 38,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-12-2e60488429c690e63c5e787493b1ba302cb7a594",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 39,
+      "source": "Columns",
+      "target": "Columns (columns39)",
+      "key": "columns39",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-23-e8eea794437d75973e73eecf75c8350efc7023fa",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[15]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 40,
+      "source": "Cards",
+      "target": "Cards (cards40)",
+      "key": "cards40",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+          "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+          "uuid": "55885b0d-05-d1cf3d26e1c6fdc829fea342e5adc0b49390e9fa",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 41,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-03-686622bc7a2a89a0895709199f6520985bbdf899",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-03-686622bc7a2a89a0895709199f6520985bbdf899",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-03-686622bc7a2a89a0895709199f6520985bbdf899",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 42,
+      "source": "Hero",
+      "target": "Hero (hero42)",
+      "key": "hero42",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-04-8d28bf1be151fa8767f4f184d136b33a1a60ad8a",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-04-8d28bf1be151fa8767f4f184d136b33a1a60ad8a",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-04-8d28bf1be151fa8767f4f184d136b33a1a60ad8a",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 43,
+      "source": "Columns",
+      "target": "Columns (columns43)",
+      "key": "columns43",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-11-782b03b6fd9d3a9aa931e7edb9cdddc21abfb86a",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-24-e0166fa3739f2471c0d69a53d1e6ee400ea1bc30",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[14]",
+          "section": "section-8"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 44,
+      "source": "Columns",
+      "target": "Columns (columns44)",
+      "key": "columns44",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-07-aa69e3036c4b1b8283ea0d808d994b1faf5d37ca",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-07-aa69e3036c4b1b8283ea0d808d994b1faf5d37ca",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-07-aa69e3036c4b1b8283ea0d808d994b1faf5d37ca",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[2]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 45,
+      "source": "Columns",
+      "target": "Columns (columns45)",
+      "key": "columns45",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-04-14061bd946e2ed49386c2b69ecb79d7ad8662fc1",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 46,
+      "source": "Accordion",
+      "target": "Accordion (accordion46)",
+      "key": "accordion46",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-25-b4f51ef80db4c1b15e0e8d3b1ba658ff06c088eb",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-25-b4f51ef80db4c1b15e0e8d3b1ba658ff06c088eb",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-25-b4f51ef80db4c1b15e0e8d3b1ba658ff06c088eb",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 47,
+      "source": "Cards",
+      "target": "Cards (cards47)",
+      "key": "cards47",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/about?akredirect=true",
+          "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+          "uuid": "3065e839-10-3702800b29930854140fd254026308f3b427d157",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[7]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-15-4c30febee4bf4c3cb6fd4781bf4e7e6a5fd373b7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[10]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 48,
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-07-29d812e9f80b7fac35103f166a2f84c8debfa848",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-23-5a11452a76dd5d1f81d3a72c3bec85312ae69a46",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[2]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 49,
+      "source": "Columns",
+      "target": "Columns (columns49)",
+      "key": "columns49",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-12-931bbe9ec9dd887c46b3ea972d24f9c65ecaf376",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/section[2]/ul[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 50,
+      "source": "Columns",
+      "target": "Columns (columns50)",
+      "key": "columns50",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-08-6d73e7d1d0a9faf3665af3543f9457946a3b02d2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[2]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 51,
+      "source": "Hero",
+      "target": "Hero (hero51)",
+      "key": "hero51",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-01-d196fbfb0eb9b4966f2e28a5ac4a8b32539af865",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 52,
+      "source": "Cards",
+      "target": "Cards (cards52)",
+      "key": "cards52",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-14-1e67e4470a2c9919c830f898a7cab4b330810378",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-14-1e67e4470a2c9919c830f898a7cab4b330810378",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-14-1e67e4470a2c9919c830f898a7cab4b330810378",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 53,
+      "source": "Columns",
+      "target": "Columns (columns53)",
+      "key": "columns53",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-06-3a15602088b31e3be9649859d9a758b491f3338b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 54,
+      "source": "Header",
+      "target": "Header (header54)",
+      "key": "header54",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-00-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 55,
+      "source": "Cards",
+      "target": "Cards (cards55)",
+      "key": "cards55",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-12-a1e44bf86530a4665e96547e97a7ba74f72f0c49",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[3]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-12-a1e44bf86530a4665e96547e97a7ba74f72f0c49",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[3]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-12-a1e44bf86530a4665e96547e97a7ba74f72f0c49",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[3]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 56,
+      "source": "Columns",
+      "target": "Columns (columns56)",
+      "key": "columns56",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-08-b292103647ed2afa0ec9ff845ff7e512796c59fe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 57,
+      "source": "Columns",
+      "target": "Columns (columns57)",
+      "key": "columns57",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+          "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+          "uuid": "0f148074-06-9d2b821bbf6991454bfce030b2f75a874a794e90",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+          "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+          "uuid": "3f717028-06-9d2b821bbf6991454bfce030b2f75a874a794e90",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+          "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+          "uuid": "72effeed-06-9d2b821bbf6991454bfce030b2f75a874a794e90",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 58,
+      "source": "Hero",
+      "target": "Hero (hero58)",
+      "key": "hero58",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-02-8720e946e2ae6c9c240a9b7c7dbe3c2a62f49b44",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 59,
+      "source": "Columns",
+      "target": "Columns (columns59)",
+      "key": "columns59",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-21-e0166fa3739f2471c0d69a53d1e6ee400ea1bc30",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[14]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-24-8781eeca085c0c48d835779b493c777e992faf61",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[10]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 60,
+      "source": "Columns",
+      "target": "Columns (columns60)",
+      "key": "columns60",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-05-4be8583e35212be65b23bc894b1a946d2fc6ebea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 61,
+      "source": "Accordion",
+      "target": "Accordion (accordion61)",
+      "key": "accordion61",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-25-3044a6d60113b02d9961e5542beade17cf9b140d",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[3]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-15-399febfdd13e66b06a1c11f73fee103d840b6738",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[10]/section[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 62,
+      "source": "Cards",
+      "target": "Cards (cards62)",
+      "key": "cards62",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/about?akredirect=true",
+          "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+          "uuid": "3065e839-06-93e0eb2a94b7ae526958b8828554b9c938c08f27",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-06-93e0eb2a94b7ae526958b8828554b9c938c08f27",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 63,
+      "source": "Columns",
+      "target": "Columns (columns63)",
+      "key": "columns63",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-19-a5069038cf06aea039cea50a51132bbbd3da7d10",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 64,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages64)",
+      "key": "cardsNoImages64",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-10-f5e196c567d80348ecc27327a2486d117176712f",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/section[1]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 65,
+      "source": "Hero",
+      "target": "Hero (hero65)",
+      "key": "hero65",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-20-3967300bf5f759c9a982c4daa778c35b2a04f4c7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[13]",
+          "section": "section-8"
+        },
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-15-f9a71e1a4cbbde7b52328e144924c07e3cee89a4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[7]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 66,
+      "source": "Columns",
+      "target": "Columns (columns66)",
+      "key": "columns66",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-02-ca37e84cd149eae87ab9124dce2ad6d6d5a7bcab",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 67,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages67)",
+      "key": "cardsNoImages67",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-16-b6fa32a378c365164dd722085af2faef0eaa1906",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/section[1]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 68,
+      "source": "Hero",
+      "target": "Hero (hero68)",
+      "key": "hero68",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-17-d7e0ce8345c0ec348d9d9666c46c5a1f38c4d060",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 69,
+      "source": "Columns",
+      "target": "Columns (columns69)",
+      "key": "columns69",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-20-79e5c87de3c186264eefc981cc39aae610df8be4",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 70,
+      "source": "Hero",
+      "target": "Hero (hero70)",
+      "key": "hero70",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+          "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+          "uuid": "113ef79b-29-f0be83cbd3d72060527020b1aa89011c8690fdc1",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[7]/div[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 71,
+      "source": "Columns",
+      "target": "Columns (columns71)",
+      "key": "columns71",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-03-808b89db5c81b8f260dbf32bafcb6559c790bc4b",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 72,
+      "source": "Columns",
+      "target": "Columns (columns72)",
+      "key": "columns72",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-06-40c97cfaddb618b76797fcfd9ab95c74272c0c9e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[5]/section[1]/section[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 73,
+      "source": "Columns",
+      "target": "Columns (columns73)",
+      "key": "columns73",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-11-9baec6ab46628f30e768a7f8d91c6e427220400e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[8]/section[1]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 74,
+      "source": "Cards",
+      "target": "Cards (cards74)",
+      "key": "cards74",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+          "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+          "uuid": "c45f07e7-18-69aabcf93a5a30f1ed82d343580393d1387889cb",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[12]/section[1]/ul[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 75,
+      "source": "Columns",
+      "target": "Columns (columns75)",
+      "key": "columns75",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-03-e7b2cb09ba1897abdd5d3de008657ccdce4d3ee2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[2]/section[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 76,
+      "source": "Columns",
+      "target": "Columns (columns76)",
+      "key": "columns76",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+          "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+          "uuid": "0d4573b6-10-b2b0a956ecde0add66c23623557ee61d372aa79e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[7]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 77,
+      "source": "Columns",
+      "target": "Columns (columns77)",
+      "key": "columns77",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-11-dbdcc9484f596b679acb9dd9d030e0322487ac6a",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 78,
+      "source": "Columns",
+      "target": "Columns (columns78)",
+      "key": "columns78",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+          "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+          "uuid": "a5de7af0-14-a3aaf3388145883f11fcc86d7eb08f9428256f33",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 79,
+      "source": "Cards",
+      "target": "Cards (cards79)",
+      "key": "cards79",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+          "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+          "uuid": "4e968253-12-c2b99a910be947ceddd9163cc39da3be9dbbcac3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[9]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 80,
+      "source": "Columns",
+      "target": "Columns (columns80)",
+      "key": "columns80",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-09-5abe1ba2c5cd099b808d0566893cf73d4a6be401",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/section[2]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 81,
+      "source": "Cards",
+      "target": "Cards (cards81)",
+      "key": "cards81",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+          "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+          "uuid": "1e1c23a9-12-b4e2c005ed54ea72bb74dddfb2a63ec0448d517d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/section[3]/div[1]/div[1]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 82,
+      "source": "Columns",
+      "target": "Columns (columns82)",
+      "key": "columns82",
+      "instances": [
+        {
+          "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+          "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+          "uuid": "7315ab95-13-a4b72e99b2aecaec53719372886dce817a9a422e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[11]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+      "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+      "uuid": "0d4573b6-01-fc1594b4114bcef7f854055abb432fcb1aae4944",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+      "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+      "uuid": "0d4573b6-02-ec822c3857c4a0fc6519e38e12f1bf2706a0f495",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[2]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+      "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+      "uuid": "0d4573b6-04-7d4e2ea852f354febd039ff536646f0b83ff40d4",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[3]/section[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+      "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+      "uuid": "0d4573b6-08-c187f2f68e097c95b466f5cca5ed27fc5b932958",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[6]/section[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance-health-medicare?akredirect=true",
+      "urlHash": "0d4573b68ed229b843ff75fb1f513b8c3778bdbc",
+      "uuid": "0d4573b6-11-3f5d79b53766815b467a83abdc3f19a17e424f33",
+      "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-05-d63a433fdd2d83313bb9db52c3b8c4c209f6685d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-08-2c7d8e9c12b80e99de2cebccd4b4fbd72f915685",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[3]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-10-0e98ff52248eaa8d9235d18ed252127321993033",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-13-30d1c3d5970b6b4919ce29df5ed9c33ec0b13118",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-16-1d00a4dd7e0623fe6860fa2abfcdaed231e6318b",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/h2[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-17-4a02270b3cc3e146d9c96f3fe6d117a2edc9754d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-18-100e5789e9abee698024840dbebf64ec4be95a50",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-20-a82d7c1529ff64e72269a709a8337f5282ecb2c3",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-22-2a1a7eea2057bf2aaf45a66cc8a87a5d38a2165f",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-24-f77cb765bd8c209048e0e4359b3fc80ea1e8dabc",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-28-403dfa2b91c5ddd6c87032770cb23972ba58768c",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
+      "urlHash": "0f1480746302cad7196eb20a0756bb210fb9b983",
+      "uuid": "0f148074-31-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+      "xpath": "/html[1]/body[1]/div[1]/div[4]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-01-19e83861508b7b2a4c887ee804f2241322332185",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-03-e97d6eee69ed73e505adfb07cc938020518ed9ec",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-04-71bbab0e81a6e617daba34f7327d9a73d867c7d6",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-05-ea924a8c5a583aca23c0261cf06469a6fcd9d08c",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/p[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-09-e87b2a314ecfe2be9abcaaaddb7095b45d82aaee",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-11-c58427073cdb853e427ad60d6ee4eb6bcbbb8822",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/section[2]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-14-3b753c1e6a38376a9f1eca6e1f01e46139f43204",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/section[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-15-0613b57279a41ca1a926269d20463b9f77f3ac7d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/section[1]/p[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-21-91cf7785807c67fe42674abb20e6b0aa418d7432",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-22-bea6aef69b62e64e5157ff45d50ba54442b60945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[2]/ol[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-24-a7d7ee71ec824723386b79739b39520c03c50e2a",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[3]/h2[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-26-e57afafcaca995285838c0cd26b508f82d117e07",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[6]/section[4]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-30-08988ef149e72206f5e223b7c0e81a1059984e3c",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[7]/section[1]/div[1]/div[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/auto-insurance?akredirect=true",
+      "urlHash": "113ef79b274ea970b02d08f0d4c5c1dd7de09201",
+      "uuid": "113ef79b-32-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+      "xpath": "/html[1]/body[1]/div[1]/div[4]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+      "uuid": "1e1c23a9-03-578e8fe68a2ef461a7f7a1e14b3bbd4e5d33c359",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/h1[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+      "uuid": "1e1c23a9-06-9e485b33e123e533787cf1243f2c2e8d10c3c820",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/h1[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+      "uuid": "1e1c23a9-10-e0a75b4d5e9ac4c453908f5dfb02ff6395ba00ea",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[11]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+      "uuid": "1e1c23a9-11-ecdb556c24cecca749a3e4dc0bfdedd0447bad1c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/section[3]/div[1]/h1[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+      "uuid": "1e1c23a9-13-85b670054f2eca6890c8f0ee79b137b8a411cb20",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[14]/h1[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+      "uuid": "1e1c23a9-15-a4f826ed0bf825599ddb1c8b9747dde754a9e49c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[16]",
+      "section": "section-8"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+      "uuid": "1e1c23a9-16-67a39264064619767f4170d461b725a322ee9a0d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/p[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/small-business?akredirect=true",
+      "urlHash": "1e1c23a9a2f2c7985710f4fd643bddf4b10d0931",
+      "uuid": "1e1c23a9-17-43d6b197520051945d433b3004e909ea4e3accb3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://www.usaa.com/about?akredirect=true",
+      "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+      "uuid": "3065e839-02-1bb15753958eb5147458ac6a01060bdc12f9b937",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[2]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/about?akredirect=true",
+      "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+      "uuid": "3065e839-04-4a3fecc01e2db5aafe0837e914a9daf68b02c8d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.usaa.com/about?akredirect=true",
+      "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+      "uuid": "3065e839-05-594aa9fa6895a2aed5209efc80ccf17ebc81861a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/about?akredirect=true",
+      "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+      "uuid": "3065e839-08-a3aaf3388145883f11fcc86d7eb08f9428256f33",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[6]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/about?akredirect=true",
+      "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+      "uuid": "3065e839-09-9ba41989ee966684a8d7faa9bfb58a283f5c0661",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[7]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.usaa.com/about?akredirect=true",
+      "urlHash": "3065e839226a93251ffc79b17bb9742223467bec",
+      "uuid": "3065e839-11-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-05-d63a433fdd2d83313bb9db52c3b8c4c209f6685d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-08-2c7d8e9c12b80e99de2cebccd4b4fbd72f915685",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[3]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-10-0e98ff52248eaa8d9235d18ed252127321993033",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-13-30d1c3d5970b6b4919ce29df5ed9c33ec0b13118",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-16-1d00a4dd7e0623fe6860fa2abfcdaed231e6318b",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/h2[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-17-4a02270b3cc3e146d9c96f3fe6d117a2edc9754d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-18-100e5789e9abee698024840dbebf64ec4be95a50",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-20-a82d7c1529ff64e72269a709a8337f5282ecb2c3",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-22-2a1a7eea2057bf2aaf45a66cc8a87a5d38a2165f",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-24-f77cb765bd8c209048e0e4359b3fc80ea1e8dabc",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-28-403dfa2b91c5ddd6c87032770cb23972ba58768c",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
+      "urlHash": "3f717028efd2a4294937c3d49cb81ec3906e70c9",
+      "uuid": "3f717028-31-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+      "xpath": "/html[1]/body[1]/div[1]/div[4]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-03-0462bbaf54b6cd18b89ad05946a13dcae3d189ab",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[3]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-04-4a3fecc01e2db5aafe0837e914a9daf68b02c8d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-05-594aa9fa6895a2aed5209efc80ccf17ebc81861a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-09-a645b4ec570b9fdbbddb5a7f76a414d8c92ce944",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[7]/div[1]/div[1]/div[1]/div[1]/hgroup[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-13-42b0b93873a621c1799f4f033b80b3e9755df154",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[10]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-14-62c35ce633e394cd0fe2077ae059a8b09a4d22c7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[10]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-17-fbc7a9e1d724e32877f5f9fb396a5bf46718e138",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-18-bb4dc1654d2e15e806b916b64febefdf61e9ec8c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-22-ec7fccf5993eb7a43915e1da3e564d9a51b2c1f3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[13]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/personal/vpp?akredirect=true",
+      "urlHash": "4e9682536bee5f5b5ff90734878dddd720508a53",
+      "uuid": "4e968253-25-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+      "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+      "uuid": "55885b0d-03-f027a666ab3788c4105d57de0d4f091691934895",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+      "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+      "uuid": "55885b0d-04-596b0f1ae15bdebc4d667e1ef0f63a73f77a0ed6",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+      "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+      "uuid": "55885b0d-08-9d1ca92020c4e0abfd18c71493ff39a5db71859e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[6]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+      "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+      "uuid": "55885b0d-12-159ca125746996270bdc2f010b29bf73c8bb63fb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/property/cell-phone?akredirect=true",
+      "urlHash": "55885b0da11626265483af372ae2b37e00e3ca45",
+      "uuid": "55885b0d-14-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-05-d63a433fdd2d83313bb9db52c3b8c4c209f6685d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-08-2c7d8e9c12b80e99de2cebccd4b4fbd72f915685",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/section[3]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-10-0e98ff52248eaa8d9235d18ed252127321993033",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-13-30d1c3d5970b6b4919ce29df5ed9c33ec0b13118",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-16-1d00a4dd7e0623fe6860fa2abfcdaed231e6318b",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/h2[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-17-4a02270b3cc3e146d9c96f3fe6d117a2edc9754d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-18-100e5789e9abee698024840dbebf64ec4be95a50",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-20-a82d7c1529ff64e72269a709a8337f5282ecb2c3",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-22-2a1a7eea2057bf2aaf45a66cc8a87a5d38a2165f",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[2]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-24-f77cb765bd8c209048e0e4359b3fc80ea1e8dabc",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-28-403dfa2b91c5ddd6c87032770cb23972ba58768c",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[3]/div[3]/section[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true",
+      "urlHash": "72effeed78db07360fe9179d7826735bb9f8554c",
+      "uuid": "72effeed-31-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+      "xpath": "/html[1]/body[1]/div[1]/div[4]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+      "uuid": "7315ab95-03-b2234c20d1ef1e412b6236525e26843c2cfe4257",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/hgroup[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+      "uuid": "7315ab95-11-8781eeca085c0c48d835779b493c777e992faf61",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[10]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+      "uuid": "7315ab95-12-45a446cf562a0094d72d04db7a4671ba7d56d5fa",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[11]/div[1]/div[1]/div[1]/div[1]/hgroup[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+      "uuid": "7315ab95-14-0a42b28011f0bfc3a89b240dfe1433e7339fda5c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[11]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+      "uuid": "7315ab95-15-fbc7a9e1d724e32877f5f9fb396a5bf46718e138",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+      "uuid": "7315ab95-16-bb4dc1654d2e15e806b916b64febefdf61e9ec8c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+      "uuid": "7315ab95-22-c42c373d7911f05c2a1f867bdc7b89e26d90842b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[15]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/vehicles/motorcycle?akredirect=true",
+      "urlHash": "7315ab951702223c7cfe8a75c3efd3eb27497bb0",
+      "uuid": "7315ab95-24-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+      "uuid": "a5de7af0-03-413dec4b67f72a15edf080c06c96ecba30e92c9a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+      "uuid": "a5de7af0-04-d300db04dd33126d52e85b5b564e638d3b949498",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+      "uuid": "a5de7af0-07-00a21cb28288da351919a89b4728b8d15f173e8d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/hgroup[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+      "uuid": "a5de7af0-09-63520ddd78e311d0efb8abf1b586e96e8f3aec2b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+      "uuid": "a5de7af0-12-e5a95bdca9bbc84f5d617662f8d2b40ffedd5074",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[5]/div[1]/div[1]/div[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+      "uuid": "a5de7af0-16-159ca125746996270bdc2f010b29bf73c8bb63fb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+      "uuid": "a5de7af0-21-5354407373a39d7f6ec4e19a821a146dd82b619b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[9]/div[1]/div[1]/div[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.usaa.com/insurance/additional/pet?akredirect=true",
+      "urlHash": "a5de7af0be5dd021ab6ebb6da55426f3c3f3bced",
+      "uuid": "a5de7af0-25-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+      "uuid": "c45f07e7-01-fc1594b4114bcef7f854055abb432fcb1aae4944",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+      "uuid": "c45f07e7-04-3a15602088b31e3be9649859d9a758b491f3338b",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[4]",
+      "section": "section-9"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+      "uuid": "c45f07e7-05-3ddea5a3fa514f60c44f7f563d79a9b96994c91d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[5]/section[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+      "uuid": "c45f07e7-10-5da7261bd6c78b1e78ca0f3ed643f514652ec3f8",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[8]/section[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+      "uuid": "c45f07e7-12-3e4a02b921d1adb91c67a8fa73a6caebad203e66",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[9]/section[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+      "uuid": "c45f07e7-14-4425a9ac3217ad4dde744d428bde268dfbafe20e",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[10]/section[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+      "uuid": "c45f07e7-17-a7b3c294b908af087b0098255c94a5369002424b",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[12]/section[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
+      "urlHash": "c45f07e785dfb0959074da5a5f99f7404e07c091",
+      "uuid": "c45f07e7-19-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+      "xpath": "/html[1]/body[1]/div[1]/div[4]",
+      "section": "section-3"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(17, 41, 64) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(11, 34, 55) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 106
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(246, 245, 245) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 42
+    },
+    {
+      "name": "section-5",
+      "background": "rgb(18, 57, 91) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 20
+    },
+    {
+      "name": "section-6",
+      "background": "rgb(18, 98, 123) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-7",
+      "background": "rgb(243, 243, 243) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 35
+    },
+    {
+      "name": "section-8",
+      "background": "rgb(0, 110, 200) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 4
+    },
+    {
+      "name": "section-9",
+      "background": "rgb(255, 249, 230) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}

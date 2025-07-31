@@ -20,18 +20,6 @@
       "id": "72effeed78db07360fe9179d7826735bb9f8554c"
     },
     {
-      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#footer",
-      "source": "MANUAL",
-      "targetPath": "/inet/wc/insurance-home-renters",
-      "id": "0f1480746302cad7196eb20a0756bb210fb9b983"
-    },
-    {
-      "url": "https://www.usaa.com/inet/wc/insurance_home_renters?akredirect=true#nav",
-      "source": "MANUAL",
-      "targetPath": "/inet/wc/insurance-home-renters",
-      "id": "3f717028efd2a4294937c3d49cb81ec3906e70c9"
-    },
-    {
       "url": "https://www.usaa.com/inet/wc/insurance_life_main?akredirect=true",
       "source": "MANUAL",
       "targetPath": "/inet/wc/insurance-life-main",
